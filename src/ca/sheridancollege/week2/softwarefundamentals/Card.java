@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//John Dang, ID: 991659242, Trafalgar Campus
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -10,6 +11,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
  */
+//John Dang, ID: 991659242, Trafalgar Campus
 public class Card 
 {
     private String suit;// hearts, diamonds, spades and clubs
